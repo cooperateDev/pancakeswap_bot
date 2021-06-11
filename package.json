@@ -1,0 +1,11 @@
+{
+  "name": "348-pancakeswap-trading-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.3.6",
+    "ethereum-input-data-decoder": "^0.3.2",
+    "ethers": "^5.2.0"
+  }
+}
