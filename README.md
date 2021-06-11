@@ -4,6 +4,8 @@
 
 > npm install
 
+> npm install @nodegui/nodegui
+
 > cmake install
 
 > Visual Studio 2017+ 
